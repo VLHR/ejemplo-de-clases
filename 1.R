@@ -138,4 +138,6 @@ barreras3 <- as.data.frame(barreras3)
 p <-  alluvial_wide(barreras3, max_variables = 5)
 parcats(p, marginal_histograms = TRUE, data_input = barreras3)
 
+1
+2
 
